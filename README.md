@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nimatbt
+- 👋 Hi, I’m Nima Tabatabaee
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
 
