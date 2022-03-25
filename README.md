@@ -7,9 +7,11 @@
 
 ![Visits](https://badges.pufler.dev/visits/nimatbt/nimatbt)
 ![Repos](https://badges.pufler.dev/repos/nimatbt)
-![Gists](https://badges.pufler.dev/gists/nimatbt)
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nimatbt&include_all_commits=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimatbt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 nimatbt/nimatbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
